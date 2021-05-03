@@ -1,13 +1,8 @@
 ﻿using System;
 
-namespace ConsoleFirstApp
+class abc 
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!"); // aaaaa
-            Console.WriteLine("내용수정123");
-        }
+    static void Main(string[] args)
+    { 
     }
 }
